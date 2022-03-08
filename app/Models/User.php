@@ -34,6 +34,7 @@ class User extends Authenticatable
         'remember_token',
     ];
 
+    //dfdfdfd
     /**
      * The attributes that should be cast.
      *
